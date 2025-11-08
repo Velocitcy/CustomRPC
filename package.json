@@ -1,6 +1,7 @@
 {
     "name": "customrpc",
     "description": "Have custom discord RPC on your profile",
+    "version": "1.0.1",
     "main": "index.js",
     "type": "module",
     "scripts": {
