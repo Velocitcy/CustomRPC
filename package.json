@@ -1,0 +1,18 @@
+{
+    "name": "customrpc",
+    "description": "Have custom discord RPC on your profile",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node index.ts"
+    },
+    "author": "Velocitcy",
+    "license": "GPL-3.0-or-later",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Velocitcy/CustomRPC.git"
+    },
+    "dependencies": {
+        "discord-rpc": "^4.0.1"
+    }
+}
