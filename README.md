@@ -3,7 +3,10 @@
 ![](https://img.shields.io/github/package-json/v/Velocitcy/CustomRPC?style=for-the-badge&logo=github&logoColor=d3869b&label=&color=1d2021&labelColor=282828)
 
 CustomRPC Preview:
-![](https://github.com/user-attachments/assets/adbccefe-bfa4-4413-a524-fa0ce4934c18)
+
+<p>
+  <img src="https://github.com/user-attachments/assets/adbccefe-bfa4-4413-a524-fa0ce4934c18" alt="CustomRPC Preview" width="500">
+</p>
 
 ## Main Components
 - **2 Buttons** — configurable with labels and URLs  
